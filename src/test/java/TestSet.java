@@ -36,7 +36,7 @@ public class TestSet extends BaseTest {
         setUp();
         driver.manage().window().fullscreen();
         try {
-            Thread.sleep(1000);
+            Thread.sleep(800);
         } catch (InterruptedException e){
             e.printStackTrace();
         }

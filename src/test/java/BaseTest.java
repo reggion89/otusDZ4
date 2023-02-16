@@ -8,9 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 
-
-
-
 public abstract class BaseTest {
 
     WebDriver driver;
